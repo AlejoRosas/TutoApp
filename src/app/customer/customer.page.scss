@@ -1,0 +1,17 @@
+ion-toolbar{
+    background-color: var(--ion-color-custom);
+}
+
+.btn{
+    background-color: var(--ion-color-custom-shade);
+    color: white;
+    margin: 20px 30px 20px 30px;
+    padding: 20px 30px 20px 30px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+#container{
+    size: fill;
+    text-align: center;
+    
+}
